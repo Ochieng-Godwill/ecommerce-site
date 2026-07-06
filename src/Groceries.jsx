@@ -7,7 +7,7 @@ function Groceries() {
   return (
     <div style={{ backgroundColor: '#ffffff', minHeight: '100vh', fontFamily: 'sans-serif' }}>
       <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', padding: '20px 60px', borderBottom: '1px solid #eaeaea' }}>
-        <div style={{ fontSize: '18px', fontWeight: '600', color: '#666666' }}>Grocery Products</div>
+        <div style={{ fontSize: '18px', fontWeight: '600', color: '#666666', borderBottom: '2px solid #008ecc' }}>Grocery Products</div>
         <a href="#viewall" style={{ fontSize: '14px', fontWeight: '500', color: '#333333', textDecoration: 'none', display: 'flex', alignItems: 'center', gap: '4px' }}>
           View All <span>›</span>
         </a>
