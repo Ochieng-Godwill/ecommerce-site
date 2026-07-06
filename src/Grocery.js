@@ -4,5 +4,4 @@ export const groceryProducts = [
   { id: 3, title: 'Farm Eggs', price: '4.99', discount: 'New', image: './images/eggs.jpg' },
   { id: 4, title: 'Whole Milk', price: '2.89', discount: 'Daily', image: './images/milk.jpg' },
   { id: 5, title: 'Brown Rice', price: '5.49', discount: 'Healthy', image: './images/rice.jpg' },
-  { id: 6, title: 'Olive Oil', price: '8.99', discount: 'Premium', image: './images/oils.jpg' }
 ];
